@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-master-mNNh-Z7LQ-](https://www.frontendmentor.io/solutions/four-card-feature-section-master-mNNh-Z7LQ-)
 - Live Site URL: [https://mateusrissodiblasio.github.io/four-card-featured-section-master/](https://mateusrissodiblasio.github.io/four-card-featured-section-master/)
 
 ## My process
@@ -46,5 +46,5 @@ On this one, I've learned how to plan before, analysing provided designs, ways t
 
 ## Author
 
-- Website - [https://github.com/MateusRissoDiBlasio](https://github.com/MateusRissoDiBlasio)
+- GitHub - [https://github.com/MateusRissoDiBlasio](https://github.com/MateusRissoDiBlasio)
 - Frontend Mentor - [@MateusRissoDiBlasio](https://www.frontendmentor.io/profile/MateusRissoDiBlasio)
